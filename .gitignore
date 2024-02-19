@@ -1,0 +1,6 @@
+__pycache__
+.venv/
+.idea/
+media/
+db.sqlite3
+.env
